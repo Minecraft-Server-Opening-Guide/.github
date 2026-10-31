@@ -6,7 +6,7 @@
 
 ## 中文
 
-**MCSOG** 是一个只做一件事的站点：把 Minecraft 开服讲清楚。
+**MCSOG** 是一个只做一件事的站点：把 Minecraft 开服教清楚。
 
 从选服务端核心、配置运行环境，到长期运维与故障排查，教程按顺序排好；资源按用途归类。目标是让第一次开服的人也能一步步走完，而不用在论坛里翻几十个帖子。
 
@@ -17,6 +17,7 @@
 | 仓库 | 说明 | 状态 |
 | --- | --- | --- |
 | [MCSOG-Docs](https://github.com/Minecraft-Server-Opening-Guide/MCSOG-Docs) | 公开文档仓库：教程与百科的 Markdown 源文，**欢迎提交 Pull Request** | 公开 |
+| [MCSQS](https://github.com/Minecraft-Server-Opening-Guide/MCSQS)| MCSQS开服器的代码仓库，**欢迎提交 Pull Request**  | 公开 |
 
 > 站点代码仓库暂不对外开放。文档相关的一切贡献都走 `MCSOG-Docs`。
 
